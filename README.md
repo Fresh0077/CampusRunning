@@ -1,10 +1,10 @@
 # 夜跑江安 · CampusRunning
 
+![江安夜跑 · CampusRunning](docs/screenshots/start.jpg)
+
 四川大学江安校区主题的横版跑酷小游戏，C++ 课程设计作品。
 
 玩家操控一名小魔女在江安的夜色里不停奔跑，跳过乌龟和狮子、蹲下钻过悬空灯柱，坚持到 10 分通关。
-
-![游戏画面](docs/screenshots/gameplay-jump.jpg)
 
 ## 玩法
 
