@@ -81,6 +81,10 @@
 
 ## 运行
 
+### 安装包
+
+从 [Releases](https://github.com/Fresh0077/CampusRunning/releases) 下载 `CampusRunning-Setup-v1.0.0.msi`，双击安装。安装程序已内置 VC++ 运行库，完成后从桌面或开始菜单的「夜跑江安~Campus Running!」启动即可。
+
 ### 直接运行
 
 克隆仓库后双击根目录下的 `夜跑江安.exe`。先在控制台窗口按一次键进入游戏，再切到游戏窗口用方向键操作。
